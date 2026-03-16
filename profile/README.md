@@ -1,6 +1,4 @@
-# PapeladaHub
-
-## Repos
+# Repos
 
 ### admin-papelada
 This repo is where the core application lives from account creation to all the available features.

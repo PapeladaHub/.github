@@ -1,2 +1,9 @@
-# .github
-PapeladaHub/.github is a ✨special ✨ repository that you can use to add a README.md to your public organization profile, visible to anyone. Make sure it’s public and initialize it with a README in the profile directory to get started.
+# PapeladaHub
+
+## Repos
+
+### admin-papelada
+This repo is where the core application lives from account creation to all the available features.
+
+### storefront-papelada
+This repo is the application that allows the site builder feature. While users configure their website through the admin, this repo is the actual website application.

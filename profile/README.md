@@ -5,3 +5,6 @@ This repo is where the core application lives from account creation to all the a
 
 ### storefront-papelada
 This repo is the application that allows the site builder feature. While users configure their website through the admin, this repo is the actual website application.
+
+### website-papelada
+This repo manages our marketing website where potential leads land first.
